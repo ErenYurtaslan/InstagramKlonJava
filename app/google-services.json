@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862261816763",
+    "project_id": "instagramklonjava",
+    "storage_bucket": "instagramklonjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862261816763:android:000fb70445c7b35c06289e",
+        "android_client_info": {
+          "package_name": "com.celiker.instagramklonjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862261816763-qq3dcusgks8u70b5iabsgfs39p2a0aqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ab6bKzJw1Es-gGAljeFFOYqZ3kfYKHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862261816763-qq3dcusgks8u70b5iabsgfs39p2a0aqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
